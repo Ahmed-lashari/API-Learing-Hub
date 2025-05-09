@@ -37,7 +37,7 @@ Welcome to the central repository of all my API-based projects. This list contai
 ### 2. **Yap-Chat**
 - **Description:** A mobile Chat App with Firebase Auth for authentication and Dio for HTTP calls, and Hive for local Caching.
 - **Features:** Flutter chat app using Dio, Firebase Auth, and Hive for API integration and local caching.
-- 🔗 [View Repository](https://github.com/Ahmed-lashari/YapChat)
+- 🔗 [View Repository](https://github.com/Ahmed-lashari/YapChat-App)
 
 ---
 
