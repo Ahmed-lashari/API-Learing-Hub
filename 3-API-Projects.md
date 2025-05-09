@@ -29,9 +29,15 @@ Welcome to the central repository of all my API-based projects. This list contai
 
 
 ### 1. **Flutter HTTP-Methods**
-- **Description:** A mobile app with Supabase backend for authentication.
+- **Description:** A mobile app aimed to understand HTTP-Protocals in Dart.
 - **Features:** CRUD Operations, no DB, understadning API in DART.
 - 🔗 [View Repository](https://github.com/Ahmed-lashari/RESTful-DartKart)
+
+
+### 2. **Yap-Chat**
+- **Description:** A mobile Chat App with Firebase Auth for authentication and Dio for HTTP calls, and Hive for local Caching.
+- **Features:** Flutter chat app using Dio, Firebase Auth, and Hive for API integration and local caching.
+- 🔗 [View Repository](https://github.com/Ahmed-lashari/YapChat)
 
 ---
 
