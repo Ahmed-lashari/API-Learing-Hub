@@ -39,6 +39,11 @@ Welcome to the central repository of all my API-based projects. This list contai
 - **Features:** Flutter chat app using Dio, Firebase Auth, and Hive for API integration and local caching.
 - 🔗 [View Repository](https://github.com/Ahmed-lashari/YapChat-App)
 
+### 3. **TheCodersHub**
+- **Description:** RESTApis integration using the Dio, BLoC and Clean Architecture.
+- **Features:** CRUD operation are being performed using the BLoC State Management.
+- 🔗 [View Repository](https://github.com/Ahmed-lashari/TheCodersHub)
+
 ---
 
 
